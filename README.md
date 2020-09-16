@@ -1,14 +1,13 @@
-# sydneypun.github.io
+# My Personal Website
 
-A draggable inline menu with a scattered thumbnail preview of an image grid.
+Note: Thank you to Codrops.com for your tutorials because they serve as templates for my website. 
 
-[Article on Codrops](https://tympanus.net/codrops/?p=40926)
-
-[Demo](http://tympanus.net/Development/DraggableMenu/)
+## Implementations
+1. A draggable inline menu with a scattered thumbnail preview of an image grid. 
+  *   CITATION 1: [Article on Codrops](https://tympanus.net/codrops/?p=40926)
+  *   CITATION 2: [Demo](http://tympanus.net/Development/DraggableMenu/)
 
 ## Credits
-
-*[Article on Codrops](https://tympanus.net/codrops/?p=40926)
 *   Fonts used in the demo: [Niveau Grotesk](https://fonts.adobe.com/fonts/niveau-grotesk)
 *   [TweenMax](https://greensock.com/tweenmax) by Greensock
 *   [Draggabilly](https://draggabilly.desandro.com/) by Dave DeSandro
