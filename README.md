@@ -4,9 +4,6 @@ _Note:_ This website is still under 🚧 construction 🚧. Thank you to Codrops
 
 ## Implementations
 1. A draggable inline menu with a scattered thumbnail preview of an image grid. 
-  *   CITATION 1: [Article on Codrops](https://tympanus.net/codrops/?p=40926)
-  *   CITATION 2: [Demo](http://tympanus.net/Development/DraggableMenu/)
-
 ## Credits
 *   Fonts used in the demo: [Niveau Grotesk](https://fonts.adobe.com/fonts/niveau-grotesk)
 *   [TweenMax](https://greensock.com/tweenmax) by Greensock
