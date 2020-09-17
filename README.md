@@ -1,6 +1,6 @@
 # My Personal Website
 
-Note: Thank you to Codrops.com for your tutorials because they serve as templates for my website. 
+_Note:_ This website is still under 🚧 construction 🚧. Thank you to Codrops.com for your tutorials because they serve as templates for my website. 
 
 ## Implementations
 1. A draggable inline menu with a scattered thumbnail preview of an image grid. 
