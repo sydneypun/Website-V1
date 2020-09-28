@@ -4,7 +4,7 @@ _Note:_ This website is still under 🚧 construction 🚧. Thank you to Codrops
 
 ## Implementations
 1. A draggable inline menu with a scattered thumbnail preview of an image grid for photography and graphic design. 
-* CITATION 1: [Codrops Article](https://tympanus.net/codrops/2019/06/19/draggable-menu-with-image-grid-previews/)
+* CITATION: [Codrops Article](https://tympanus.net/codrops/2019/06/19/draggable-menu-with-image-grid-previews/)
 
 ## First Implementation of the Site
 This is the first implementation of the site. It contains a draggable inline menu with scattered thumbnail previews. 
